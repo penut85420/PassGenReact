@@ -1,0 +1,45 @@
+body {
+  background-color: #1E1E1E;
+  color: #D4D4D4;
+  font: 24px "Consolas";
+  margin: 20px;
+  text-align: center;
+}
+
+input,
+button {
+  background-color: #555;
+  color: #DDD;
+  font: 32px "Consolas";
+  font-weight: 1000;
+  margin: 20px;
+  padding: 10px;
+  border: 5px solid #DDD;
+  border-radius: 5px;
+}
+
+.query {
+  font-size: 32px;
+}
+
+#pass_result {
+  width: 75%;
+  text-align: center;
+}
+
+table {
+  text-align: left;
+  display: inline-table;
+}
+
+form {
+  text-align: center;
+}
+
+label {
+  padding-right: 1em;
+}
+
+#pass_len {
+  text-align: center;
+}
